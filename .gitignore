@@ -1,0 +1,3 @@
+#ignore *.a and *.o
+*.[oa]
+
